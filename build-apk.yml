@@ -1,5 +1,4 @@
 name: Build Element Android APK
-
 on:
   workflow_dispatch:
     inputs:
